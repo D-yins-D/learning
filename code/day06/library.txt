@@ -1,0 +1,4 @@
+西游记,吴承恩,4,3,NormalBook
+三国杀,黄恺,3,2,NormalBook
+工具书1,未知,3,3,ReferenceBook
+红楼梦,曹雪芹,3,3,NormalBook
